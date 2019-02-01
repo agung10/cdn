@@ -1,1 +1,1 @@
-# Vue-Undraw API
+# Vue-Undraw CDN
