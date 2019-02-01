@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  font-weight: 500;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  color: #ccc;
+  background-color: #f4f4f4;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  padding: 2.5rem;
+  border-radius: 50%;
+}
