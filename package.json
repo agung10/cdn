@@ -1,0 +1,20 @@
+{
+  "name": "vue-undraw-cdn",
+  "version": "0.0.1",
+  "main": "download.js",
+  "scripts": {
+    "start": "babel-node download.js"
+  },
+  "repository": "git@github.com:vue-undraw/cdn.git",
+  "author": "Kai Wedekind <wedekind.kai@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "rimraf": "^2.6.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
+  }
+}
